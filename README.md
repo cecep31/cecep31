@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cecep31
-- 👀 I’m interested in django
+- 👀 I’m interested in django, golang, microservices
 - 🌱 I’m currently learning vue.js, react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
