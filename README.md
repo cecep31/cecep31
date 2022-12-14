@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cecep31
-- 👀 I’m interested in django, golang, microservices, reactjs
-- 🌱 I’m currently learning go fiber, react.js
+- 👀 I’m interested in django, golang, microservices, reactjs and clound
+- 🌱 I’m currently learning go fiber, react.js, netxt.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
