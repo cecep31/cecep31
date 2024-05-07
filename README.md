@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cecep31
 - 👀 I’m interested in nestjs, golang, microservices, Reactjs and Cloud
-- 🌱 I’m currently learning Gofiber,Nest.js, React.js, Next.js
+- 🌱 I’m currently learning Gofiber, Nest.js, React.js, Next.js
 - 📫 reach me https://www.linkedin.com/in/cecep31/
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
