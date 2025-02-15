@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Golang, Nest.js, React.js, Next.js, Hono.js
 - 📫 reach me https://www.linkedin.com/in/cecep31/
 <!-- - 💞️ I’m looking to collaborate on ... -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecep31&layout=compact&theme=radical)
 
 
 
