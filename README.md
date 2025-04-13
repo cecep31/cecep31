@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 📚 Always learning new technologies and improving my skills
 - 🌱 Currently exploring **modern backend and frontend frameworks**
 - 🎯 Interested in **Open Source, Web Development, and Scalable Architectures**
-- 🌍 Based in **[Your Location, e.g., Indonesia]**
+- 🌍 Based in **West sumatera, Indonesia**
 
 ---
 
@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ### Libraries/ORMs
 - **GORM**
+- **Bun**
 - **Drizzle**
 - **Prisma**
 
@@ -44,9 +45,9 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 📫 Let's Connect!
 
-- **Email:** [cecepjanuardi@proton.me]
-- **LinkedIn:** [linkedin.com/in/cecep31]
-- **Twitter:** [@cecep_januardi]
+- **Email:** cecepjanuardi@proton.me
+- **LinkedIn:** linkedin.com/in/cecep31
+- **Twitter:** @cecep_januardi
 
 ---
 
