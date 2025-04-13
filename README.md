@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 📫 Let's Connect!
 
-- **Email:** [your email address, e.g., cecep@example.com]
-- **LinkedIn:** [your LinkedIn profile, e.g., linkedin.com/in/cecep31]
-- **Twitter:** [your Twitter handle, e.g., @cecep31]
+- **Email:** [cecepjanuardi@proton.me]
+- **LinkedIn:** [linkedin.com/in/cecep31]
+- **Twitter:** [@cecep_januardi]
 
 ---
 
