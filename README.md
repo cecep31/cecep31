@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - **JavaScript**
 
 ### Frameworks
-- **Backend:** Laravel, Golang Echo, Fiber, NestJS, HonoJS
+- **Backend:** Laravel, Golang, Echo, Fiber, NestJS, HonoJS
 - **Frontend:** React, NextJS
 
 ### Libraries/ORMs
