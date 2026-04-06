@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 ---
 
 ## 📈 GitHub Stats
-
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cecep31&theme=tokyonight)
 [![Cecep's GitHub stats](https://github-readme-stats.vercel.app/api?username=cecep31&show_icons=true&theme=dark)](https://github.com/cecep31)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cecep31&layout=compact&theme=dark)](https://github.com/cecep31)
